@@ -24,3 +24,4 @@ treq==17.3.1
 # other
 google-cloud-storage==1.0.0
 -e .
+pyasn1>=0.6.2 # not directly required, pinned by Snyk to avoid a vulnerability
